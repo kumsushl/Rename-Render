@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "webseries_alltype")
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://sushiljhu:<db_password>@cluster0.0uyhj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://sushiljhu:<VTdav8DwGMjdBO23>@cluster0.0uyhj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
